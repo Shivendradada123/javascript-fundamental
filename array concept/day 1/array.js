@@ -17,3 +17,6 @@ console.log( "this is a length", array.length);
 // 45  value = 65
 //  Total indexes = 46
   
+
+
+
