@@ -46,3 +46,9 @@
 // console.log(array.indexOf("aditya"));
 // console.log(array.indexOf("nigga"));
 
+const array = [99,85,58,1,89,22,69,5]
+
+array.sort();
+console.log(array);
+
+
