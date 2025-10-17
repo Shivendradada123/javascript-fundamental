@@ -7,6 +7,5 @@ console.log(newarray)
 
 
 
-// second method 
 
-const
+
