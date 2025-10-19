@@ -13,3 +13,7 @@ for(let i = 0 ; i <array.length ; i++){
 
 console.log([...set])
 ```
+> ye vala note banane ke liye 
+1. agar highligh karana hoto is taraha karana hai `Shivendra`
+
+ phir ye dono ko paste karo last me
