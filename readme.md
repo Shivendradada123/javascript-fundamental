@@ -3,7 +3,7 @@
 ## basic operation
 
 ### set in array
-########## sets
+#### sets
 
 1. how to print unique element from array
 ```js
