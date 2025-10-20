@@ -16,9 +16,15 @@ for(let i = 0 ; i <array.length ; i++){
 
 console.log([...set])
 ```
-> ye vala note banane ke liye 
-1. agar highligh karana hoto is taraha karana hai `Shivendra`
 
- phir ye dono ko paste karo last me
 
+
+
+#sets in array
+
+## sets exmaple 
+1. first eg.
+```const array = [1,22,22,11,11,1,3,4,5,6,7,666,444,444]
+const sets = [...new Set(array)];
+console.log(sets) ```
 
