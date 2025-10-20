@@ -20,7 +20,7 @@ console.log([...set])
 
 
 
-#sets in array
+# sets in array
 
 ## sets exmaple 
 1. first eg.
