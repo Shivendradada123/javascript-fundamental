@@ -28,3 +28,21 @@ console.log([...set])
 const sets = [...new Set(array)];
 console.log(sets) ```
 
+
+
+
+# split opreator in javascipt
+
+## split ("")
+
+``` 1. const pra = "hey i am shivendra mauhariya ";
+
+console.log(pra.split("")) ```
+
+### type 2 
+
+``` 1.
+
+const split = "shivendra,aditya,saurav"
+
+console.log(split.split(",")) ```

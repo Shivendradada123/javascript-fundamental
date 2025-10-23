@@ -1,3 +1,3 @@
-const name = ["shivendra", "aditya"]
+const name = ["shivendra", "aditya", "mauhariya"]
 
-console.log(name.join("-"));
+console.log(name.join("###"));
