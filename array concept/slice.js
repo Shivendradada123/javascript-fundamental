@@ -1,3 +1,3 @@
-const num = [1, 2, 4, 5, 35, 69]
+const arary = ["shivendra", "aditya", "laptop"]
 
-console.log(num.splice(2,3,43,33,23))
+console.log(arary.slice(1,43))
