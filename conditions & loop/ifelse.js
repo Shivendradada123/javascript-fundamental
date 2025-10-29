@@ -49,6 +49,7 @@ for (let a = 0; a < num.length; a++) {
 
 
 
-const num1 = [1,2,3,4,5,6,7,8].filter((ele) => ele%2 == 0)
+const num1 = [1,2,3,4,5,6,7,8,10].filter((ele) => ele%2 == 0)
 
 console.log(num1)
+
