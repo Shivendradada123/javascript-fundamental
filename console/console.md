@@ -6,3 +6,6 @@
  ``` const age = 16;
 
 console.assert(age >= 18, "your are is not 18++ "); // result is fail```
+
+
+

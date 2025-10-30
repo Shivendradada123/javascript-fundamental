@@ -53,3 +53,8 @@ const num1 = [1,2,3,4,5,6,7,8,10].filter((ele) => ele%2 == 0)
 
 console.log(num1)
 
+
+
+
+
+console.log("s")

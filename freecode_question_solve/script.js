@@ -10,4 +10,6 @@ const secondToLastLetterOfLastName = lastName[lastName.length -2] // piche se jo
 const second = lastName[lastName.length -3] // piche se jo 3 number hai hai wo ayega
 
 console.log(secondToLastLetterOfLastName) // c
-console.log(second) //e
+console.log(second) //e c
+
+console
