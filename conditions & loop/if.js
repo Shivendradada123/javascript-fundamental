@@ -1,20 +1,13 @@
 function testSize(num) {
-  // Only change code below this line
-if (num < 5){
-    return "Tiny";
-} else if(num <10) {
-return "Small";
-} else if(num <15 ) {
-  return "Medium"
 
-} else if(num < 20) {
-  return  "Large"
-} else  {
-  return "Huge"
+
+  return num <= 5 ? "Tiny" :
+   num <= 10 ? "Small" : 
+  num <= 18 ? "aditya" :
+  num <= 30 ? "shivednra" :
+  "nigga"
+
 }
 
-  
-  // Only change code above this line
-}
+console.log(testSize);
 
-testSize(7);
