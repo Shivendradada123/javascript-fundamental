@@ -11,3 +11,13 @@ function testSize(num) {
 
 console.log(testSize);
 
+
+
+
+
+
+
+// pratice 
+
+
+funtion pratice()
