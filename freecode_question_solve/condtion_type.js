@@ -1,4 +1,4 @@
-// question
+// question 1
 
 // // 1. trueOrFalse should be a function
 // Passed:2. trueOrFalse(true) should return a string
@@ -17,3 +17,8 @@ if(wasThatTrue){
 }
 trueOrFalse(true);
 trueOrFalse(false);
+
+
+// question 2
+
+
