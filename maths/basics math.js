@@ -21,4 +21,5 @@ console.log(a%b); // 1
 
 console.log(a ** b) // 1000
 
-    
+/// xor method
+console.log(a^b)
