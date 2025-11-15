@@ -1,0 +1,1 @@
+const myArray = [["Shivendra"], [34]];    // array ke andar array
