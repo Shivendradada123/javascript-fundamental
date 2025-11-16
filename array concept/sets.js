@@ -3,4 +3,4 @@ const sets = [...new Set(array)];
 console.log(sets)   
 
 
-console
+
