@@ -3,11 +3,6 @@
 
 ## Stand Line in function
 
-<!-- ###1. nextInLine([], 5) should return a number.
-2. nextInLine([], 1) should return 1
-3. nextInLine([2], 1) should return 2
-4. nextInLine([5,6,7,8,9], 1) should return
-
 
 ```function nextInLine(arr, item) {
 
