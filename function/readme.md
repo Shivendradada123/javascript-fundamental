@@ -1,27 +1,15 @@
-# funtion in javascript By Shivendra 
+# Function in JavaScript — By Shivendra
 
+## Standard Example of a Function
 
-## Stand Line in function
-
-
-``` function nextInLine(arr, item) {
-
-  arr.push(item)
-  return arr.shift();
-
+```javascript
+function nextInLine(arr, item) {
+  arr.push(item);      // Add item to the end of the array
+  return arr.shift();  // Remove the first element and return it
 }
-
 
 let testArr = [1, 2, 3, 4, 5];
 
-
 console.log("Before: " + JSON.stringify(testArr));
 console.log(nextInLine(testArr, 6));
-console.log("After: " + JSON.stringify(testArr)); ```
-
-
-
-
-## question kaha kya raha basicly ki phele ek item end me add karo phir suru ka jo Item hai use remove karo aur return kardo
-
-
+console.log("After: " + JSON.stringify(testArr));
