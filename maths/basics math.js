@@ -23,3 +23,15 @@ console.log(a ** b) // 1000
 
 /// xor method
 console.log(a^b)
+
+
+// var a = "aditya"
+// var a = "aditya"
+
+
+ 
+
+
+// let name = "Shivendra";
+
+

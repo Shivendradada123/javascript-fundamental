@@ -7,3 +7,4 @@ function checkvalue(val) {
 }
 
 console.log(checkvalue(18))
+console.log(checkvalue(18))
