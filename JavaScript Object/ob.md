@@ -22,9 +22,7 @@ myDog.bark = "bho bho" ```
 
 1. object me delete karne ke method
 
-````
-
-const myDog = {
+```` const myDog = {
 "name": "Happy Coder",
 "legs": 4,
 "tails": 1,
@@ -32,7 +30,6 @@ const myDog = {
 "bark": "woof"
 };
 
-e
 delete myDog.tails ```
 
 # Using Objects for Lookups
