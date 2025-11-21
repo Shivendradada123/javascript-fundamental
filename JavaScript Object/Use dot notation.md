@@ -3,7 +3,8 @@
 1. Jaha space nahi hai → DOT notation lagao
 2. Jaha space hai → BRACKET notation laga
 
-``` const myStorage = {
+```
+   const myStorage = {
   "car": {
     "inside": {
       "glove box": "maps",
