@@ -6,3 +6,5 @@ const sum = (...args) => {
   }
   return total;
 }
+
+console.log(sum(4,4,5,5,))
