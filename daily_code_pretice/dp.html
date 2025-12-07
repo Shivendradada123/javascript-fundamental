@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gallery DP</title>
+</head>
+<body>
+
+  <h2>Profile DP</h2>
+
+  <!-- DP image -->
+  <img id="dpImage" src="https://via.placeholder.com/150?text=DP" width="150" height="150">
+
+  <br><br>
+
+  <!-- Hidden file input (gallery open karega) -->
+  <input type="file" id="fileInput" accept="image/*" style="display:none">
+
+  <!-- Buttons -->
+  <button onclick="showDP()">Show</button>
+  <button onclick="editDP()">Edit</button>
+  <button onclick="deleteDP()">Delete</button>
+
+  <script>
+    const dp = document.getElementById("dpImage");
+    const input = document.getElementById("fileInput");
+
+    const defaultPhoto = dp.src;
+
+    // SHOW DP
+    function showDP() {
+      dp.style.display = "block";
+    }
+
+    // EDIT → gallery open
+    function editDP() {
+      input.click(); // yeh mobile me gallery open karega
+    }
+
+    // When image selected from gallery
+    input.addEventListener("change", function () {
+      const file = this.files[0];
+      if (file) {
+        dp.src = URL.createObjectURL(file);
+        dp.style.display = "block";
+      }
+    });
+
+    // DELETE DP
+    function deleteDP() {
+      dp.src = defaultPhoto;
+      dp.style.display = "none";
+      input.value = "";
+    }
+  </script>
+
+</body>
+</html>
