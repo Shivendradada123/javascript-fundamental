@@ -1,0 +1,8 @@
+const student = {
+
+fullName: "Shivendra"
+
+
+
+
+}
