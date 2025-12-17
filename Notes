@@ -1,8 +1,0 @@
-# Includes
-1. Includes se ham value check kar skate hai umse hai ki nhi
-
-```
-let nam = "Shivendra"
-console.log(nam.includes("Shi"))
-console.log(nam.includes("Adi"))
-```
