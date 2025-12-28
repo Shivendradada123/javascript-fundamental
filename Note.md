@@ -50,3 +50,9 @@ if(Login){
 #  How Work JavaScript
 
 ![alt text](image.png)
+
+
+
+## Event Loop
+
+![alt text](image-1.png)
