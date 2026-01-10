@@ -37,7 +37,7 @@ const allTheme=()=>{
 theme1();
 theme2();
 
-  console.log('NaviBlue')
+  console.log('Navi')
 
 
 };
