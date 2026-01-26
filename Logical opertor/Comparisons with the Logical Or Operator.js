@@ -19,6 +19,5 @@ javascript:(function () {     var script =  document.createElement('script');   
 
 
 
-const let = "name "
-
+let arry = [nam, age, classs,  subject ]
 
