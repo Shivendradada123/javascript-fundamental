@@ -20,4 +20,5 @@ javascript:(function () {     var script =  document.createElement('script');   
 
 
 let arry = [nam, age, classs,  subject ]
+const
 
