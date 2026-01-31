@@ -22,3 +22,10 @@ javascript:(function () {     var script =  document.createElement('script');   
 let arry = [nam, age, classs,  subject ]
 const name = 'jee'
 
+let num = 73;
+function getCall(){
+
+  if(num > 70){
+    console.log('you are pass ')
+  }
+}
