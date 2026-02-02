@@ -28,6 +28,6 @@ function getCall(){
   if(num > 70){
     console.log('you are pass ')
   }else if(num>50){
-    console.log('you are supplymentry')
+    console.log('regrate')
   }
 }
